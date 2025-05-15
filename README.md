@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 💬 Ask me about Flutter layouts and basic iOS dev  
 📫 How to reach me: https://www.instagram.com/driannn_4/
 😄 Pronouns: He/Him  
-⚡ Fun fact: Saya mulai ngoding karena ingin membuat aplikasi sendiri — sekarang malah jadi ketagihan.
 
 
 
