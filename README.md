@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 😄 Pronouns: He/Him  
 dan yap
 nama gweh adrian ya wkwkw
+inoi buat commit
 
 
 
