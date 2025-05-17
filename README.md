@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 📫 How to reach me: https://www.instagram.com/driannn_4/
 😄 Pronouns: He/Him  
 dan yap
-
+nama gweh adrian ya wkwkw
 
 
 
