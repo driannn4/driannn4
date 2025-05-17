@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 💬 Ask me about Flutter layouts and basic iOS dev  
 📫 How to reach me: https://www.instagram.com/driannn_4/
 😄 Pronouns: He/Him  
+dan yap
+
 
 
 
