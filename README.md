@@ -1,19 +1,6 @@
 ## Hi there 👋
 
-<!--
-**driannn4/driannn4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🔭 I’m currently working on mobile apps with Flutter & Swift  
 🌱 I’m currently learning Dart, Swift, and UI/UX basics  
 👯 I’m looking to collaborate on beginner-friendly Flutter projects  
@@ -21,9 +8,6 @@ Here are some ideas to get you started:
 💬 Ask me about Flutter layouts and basic iOS dev  
 📫 How to reach me: https://www.instagram.com/driannn_4/
 😄 Pronouns: He/Him  
-dan yap
-nama gweh adrian ya wkwkw
-inoi buat commit
 
 
 
